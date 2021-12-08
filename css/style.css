@@ -28,6 +28,7 @@ main {
 
 }
 
+
 section {
   background-color: lightgray;
   display: inline-flex;
@@ -36,6 +37,7 @@ section {
   flex-wrap: wrap;
   width: 40%;
   padding: 1em;
+  border-radius: 1em;
 
 }
 
@@ -89,4 +91,18 @@ section a{
 .orange-light {
   background-color: #F9DDB3;
   color: gray;
+}
+
+img{
+  height: 100%;
+  width: 2em;
+}
+
+.icons{
+  border-radius: 50%;
+  background-color: #FFFFFF;
+  display: flex;
+  /* justify-content: center; */
+  padding: 1em;
+  margin: 1em;
 }
