@@ -1,5 +1,6 @@
-# 👾 Game of Tones
+# 👾 Game of Tones Living Styleguide
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+Living Styleguide van de Game of Tones
 
 ## 📖 Inhoudsopgave
 
@@ -9,7 +10,7 @@
 
 ## 💾 Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-DIt is de repository van The Game of Tones living styleguide
+DIt is de repository van de Game of Tones living styleguide
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
